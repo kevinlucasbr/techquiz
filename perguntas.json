@@ -1,0 +1,17 @@
+[
+  {
+    "pergunta": "O que significa HTML?",
+    "opcoes": ["Hyper Text Markup Language", "High Tech Modern Language", "Home Tool Markup Language"],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual tag define um título principal em HTML?",
+    "opcoes": ["<p>", "<h1>", "<a>"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Para que serve o CSS?",
+    "opcoes": ["Criar a estrutura", "Estilizar a página", "Criar a lógica"],
+    "correta": 1
+  }
+]
